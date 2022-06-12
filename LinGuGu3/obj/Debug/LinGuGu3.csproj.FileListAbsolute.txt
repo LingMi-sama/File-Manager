@@ -1,0 +1,102 @@
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\bin\Debug\FileManagerUI.exe.config
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\bin\Debug\FileManagerUI.exe
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\bin\Debug\FileManagerUI.pdb
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\LinGuGu3.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\LinGuGu3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\Custom Controls\ActivityCard.baml
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\Custom Controls\CardButtons.baml
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\Custom Controls\CircularProgressBar.baml
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\Custom Controls\FileListControl.baml
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\Custom Controls\ImageButtons.baml
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\Custom Controls\mediumSizeButtons.baml
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\Custom Controls\proCard.baml
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\Custom Controls\ActivityCard.g.cs
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\Custom Controls\CardButtons.g.cs
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\Custom Controls\CircularProgressBar.g.cs
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\Custom Controls\FileListControl.g.cs
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\Custom Controls\ImageButtons.g.cs
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\Custom Controls\mediumSizeButtons.g.cs
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\Custom Controls\proCard.g.cs
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\FileManagerUI_MarkupCompile.cache
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\FileManagerUI_MarkupCompile.lref
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\FileManagerUI.g.resources
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\FileManagerUI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\LinGuGu3.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\LinGuGu3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\LinGuGu3.csproj.CopyComplete
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\FileManagerUI.exe
+C:\Users\Administrator\Desktop\File-Manager-UI-Wpf-master\FileManagerUI\obj\Debug\FileManagerUI.pdb
+D:\LinGuGu\LinGuGu3\FileManagerUI\bin\Debug\LinGuGu3.exe.config
+D:\LinGuGu\LinGuGu3\FileManagerUI\bin\Debug\LinGuGu3.exe
+D:\LinGuGu\LinGuGu3\FileManagerUI\bin\Debug\LinGuGu3.pdb
+D:\LinGuGu\LinGuGu3\FileManagerUI\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\LinGuGu3.csproj.AssemblyReference.cache
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\LinGuGu3.csproj.SuggestedBindingRedirects.cache
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\Custom Controls\ActivityCard.g.cs
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\Custom Controls\CardButtons.g.cs
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\Custom Controls\CircularProgressBar.g.cs
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\Custom Controls\FileListControl.g.cs
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\Custom Controls\ImageButtons.g.cs
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\MainWindow.g.cs
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\Custom Controls\mediumSizeButtons.g.cs
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\Custom Controls\proCard.g.cs
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\App.g.cs
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\LinGuGu3_MarkupCompile.cache
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\LinGuGu3_MarkupCompile.lref
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\App.baml
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\Custom Controls\ActivityCard.baml
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\Custom Controls\CardButtons.baml
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\Custom Controls\CircularProgressBar.baml
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\Custom Controls\FileListControl.baml
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\Custom Controls\ImageButtons.baml
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\MainWindow.baml
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\Custom Controls\mediumSizeButtons.baml
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\Custom Controls\proCard.baml
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\LinGuGu3.g.resources
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\LinGuGu3.Properties.Resources.resources
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\LinGuGu3.csproj.GenerateResource.cache
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\LinGuGu3.csproj.CoreCompileInputs.cache
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\LinGuGu3.csproj.CopyComplete
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\LinGuGu3.exe
+D:\LinGuGu\LinGuGu3\FileManagerUI\obj\Debug\LinGuGu3.pdb
+D:\LinGuGu\LinGuGu3\bin\Debug\LinGuGu3.exe.config
+D:\LinGuGu\LinGuGu3\bin\Debug\LinGuGu3.exe
+D:\LinGuGu\LinGuGu3\bin\Debug\LinGuGu3.pdb
+D:\LinGuGu\LinGuGu3\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\LinGuGu\LinGuGu3\obj\Debug\LinGuGu3.csproj.AssemblyReference.cache
+D:\LinGuGu\LinGuGu3\obj\Debug\LinGuGu3.csproj.SuggestedBindingRedirects.cache
+D:\LinGuGu\LinGuGu3\obj\Debug\Custom Controls\ActivityCard.g.cs
+D:\LinGuGu\LinGuGu3\obj\Debug\Custom Controls\CardButtons.g.cs
+D:\LinGuGu\LinGuGu3\obj\Debug\Custom Controls\CircularProgressBar.g.cs
+D:\LinGuGu\LinGuGu3\obj\Debug\Custom Controls\FileListControl.g.cs
+D:\LinGuGu\LinGuGu3\obj\Debug\Custom Controls\ImageButtons.g.cs
+D:\LinGuGu\LinGuGu3\obj\Debug\MainWindow.g.cs
+D:\LinGuGu\LinGuGu3\obj\Debug\Custom Controls\mediumSizeButtons.g.cs
+D:\LinGuGu\LinGuGu3\obj\Debug\Custom Controls\proCard.g.cs
+D:\LinGuGu\LinGuGu3\obj\Debug\App.g.cs
+D:\LinGuGu\LinGuGu3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\LinGuGu\LinGuGu3\obj\Debug\LinGuGu3_MarkupCompile.cache
+D:\LinGuGu\LinGuGu3\obj\Debug\LinGuGu3_MarkupCompile.lref
+D:\LinGuGu\LinGuGu3\obj\Debug\App.baml
+D:\LinGuGu\LinGuGu3\obj\Debug\Custom Controls\ActivityCard.baml
+D:\LinGuGu\LinGuGu3\obj\Debug\Custom Controls\CardButtons.baml
+D:\LinGuGu\LinGuGu3\obj\Debug\Custom Controls\CircularProgressBar.baml
+D:\LinGuGu\LinGuGu3\obj\Debug\Custom Controls\FileListControl.baml
+D:\LinGuGu\LinGuGu3\obj\Debug\Custom Controls\ImageButtons.baml
+D:\LinGuGu\LinGuGu3\obj\Debug\MainWindow.baml
+D:\LinGuGu\LinGuGu3\obj\Debug\Custom Controls\mediumSizeButtons.baml
+D:\LinGuGu\LinGuGu3\obj\Debug\Custom Controls\proCard.baml
+D:\LinGuGu\LinGuGu3\obj\Debug\LinGuGu3.g.resources
+D:\LinGuGu\LinGuGu3\obj\Debug\LinGuGu3.Properties.Resources.resources
+D:\LinGuGu\LinGuGu3\obj\Debug\LinGuGu3.csproj.GenerateResource.cache
+D:\LinGuGu\LinGuGu3\obj\Debug\LinGuGu3.csproj.CoreCompileInputs.cache
+D:\LinGuGu\LinGuGu3\obj\Debug\LinGuGu3.csproj.CopyComplete
+D:\LinGuGu\LinGuGu3\obj\Debug\LinGuGu3.exe
+D:\LinGuGu\LinGuGu3\obj\Debug\LinGuGu3.pdb
